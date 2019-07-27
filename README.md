@@ -9,3 +9,7 @@ Simple deep learning code for the binary classification of the [Diagnostic Wisco
 ## Used Cars regression:
 
 Simple deep learning code for regression of the Used cars database, found on Kaggle. The dataset can be downloaded [here](https://www.kaggle.com/orgesleka/used-cars-database).
+
+## Cifar-10 dataset CNN:
+
+Deep learning project for image recognition using the CIFAR-10 dataset.
